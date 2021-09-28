@@ -1,0 +1,80 @@
+@media (max-width:1400px) {
+    
+}
+@media (max-width:1200px) {
+    .compani-img-inner p {
+        font-size: 13px;
+    }
+    .compani-img-inner h2 {
+        font-size: 48px;
+    }
+    .compani-img-inner {
+        right: 45px;
+        bottom: 39px;
+       
+        width: 150px;
+        height: 150px;
+       
+    }
+    .call-action-left h3 {
+        font-size: 25px;
+    }
+    .call-action-right .call-number {
+        font-size: 24px;
+       
+    }
+    .call-action-right .call-icon span {
+        font-size: 28px;
+    }
+    .call-action-right .call-icon {
+        height: 50px;
+        width: 50px;
+       
+        line-height: 50px;
+        font-size: 31px;
+      
+    }
+}
+@media (max-width:992px) {
+    .values-img {
+        margin-top: 172px;
+    }
+    .compani-item img {
+        max-width: 91%;
+    }
+    .finix-text p {
+        font-size: 15px;
+    }.finix-text h2 {
+        font-size: 26px;
+       
+    }
+    .finix-text h4 {
+        font-size: 15px;
+    }
+    .rate-wrap {
+        margin-top: 46px;
+    }
+    
+    .tab-content-img {
+        margin-bottom: 30px;
+    }
+}
+@media (max-width:768px) {
+    .compani-item {
+        text-align: center;
+    }
+    .compani-img-inner {
+        right: 126px;
+    }
+    .tab-item span {
+        width: 100%;
+    }
+    .offset-3 {
+        margin-left: 0;
+    }
+}
+@media (max-width:576px) {
+    .team-membar {
+        text-align: center;
+    }
+}
